@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSDTranslate", "PSDTranslate\PSDTranslate.csproj", "{D84222A7-8360-4AAA-BB8B-724CB49EEA7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleTranslate", "GoogleTranslate.NET\GoogleTranslate\GoogleTranslate.csproj", "{F837DA3C-3F80-4D6C-81FB-CF9CDE10865E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84222A7-8360-4AAA-BB8B-724CB49EEA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84222A7-8360-4AAA-BB8B-724CB49EEA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84222A7-8360-4AAA-BB8B-724CB49EEA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84222A7-8360-4AAA-BB8B-724CB49EEA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F837DA3C-3F80-4D6C-81FB-CF9CDE10865E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F837DA3C-3F80-4D6C-81FB-CF9CDE10865E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F837DA3C-3F80-4D6C-81FB-CF9CDE10865E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F837DA3C-3F80-4D6C-81FB-CF9CDE10865E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

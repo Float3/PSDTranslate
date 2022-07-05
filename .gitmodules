@@ -1,0 +1,3 @@
+[submodule "GoogleTranslate.NET"]
+	path = GoogleTranslate.NET
+	url = https://github.com/Float3/GoogleTranslate.NET.git
